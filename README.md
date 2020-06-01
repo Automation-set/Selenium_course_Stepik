@@ -1,3 +1,3 @@
 # Selenium_course_Stepik
-Homework by Selenium (Stepic)
+Homework by Selenium (Stepik)
 hi
