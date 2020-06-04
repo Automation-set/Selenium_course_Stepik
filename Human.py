@@ -23,3 +23,4 @@ if __name__ == "__main__":
      human.name = newName
      print("Name changed")
      human.eat()
+     print("Hello")
