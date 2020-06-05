@@ -2,7 +2,7 @@ class Human():
 
     name = "John"
     leftArm = 1
-    rightArm = "right arm"
+    rightArm = "right arm"Л
     leftLeg = 3
     rightLeg = 4
     body = 5
